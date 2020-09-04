@@ -2,4 +2,6 @@
 
 ## Solved Problems
 
-- 크레인 인형 뽑기 게임 [C++](claw_crane_game.cpp)
+### Level 1
+
+- 크레인 인형 뽑기 게임 : [C++](claw_crane_game.cpp)
