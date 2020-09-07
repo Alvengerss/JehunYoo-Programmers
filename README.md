@@ -5,7 +5,7 @@
 ### Level 1
 
 - 크레인 인형 뽑기 게임 : [[C++](claw_crane_game.cpp)] [[Python](claw_crane_game.py)]
-- 모의고사 : [[Python](mock.py)]
+- 모의고사 : [[C++](mock.cpp)] [[Python](mock.py)]
 
 ### References
 
