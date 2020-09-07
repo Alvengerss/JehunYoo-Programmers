@@ -1,15 +1,15 @@
 def solution(s):
     answer = []
     
-    lsts = []
+    lists = []
     sets = s[2:-2].split('},{')
     
     for st in sets:
-        lsts.append(list(map(int, st.split(','))))
+        lists.append(list(map(int, st.split(','))))
     
-    lsts = sorted(lsts, key=lambda x: len(x))
+    lists = sorted(lists, key=lambda x: len(x))
     
-    for lst in lsts:
+    for lst in lists:
         for item in lst:
             if not item in answer:
                 answer.append(item)
