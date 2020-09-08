@@ -10,6 +10,7 @@
 ### Level 2
 
 - 튜플 : [[Python](tuple.py)]
+- 카카오 프렌즈 컬러링북 : [[C++](kakao_friends_coloring_book.cpp)]
 
 ### References
 
