@@ -14,7 +14,7 @@
 
 ### Level 3
 
-- 네트워크 : [[C++ (DFS)](network_dfs.cpp)] [[C++ (BFS)](network_bfs.cpp)]
+- 네트워크 : [[C++ (DFS)](network_dfs.cpp)] [[C++ (BFS)](network_bfs.cpp)] [[Python (DFS)](network_dfs.py)] [[Python (BFS)](network_bfs.py)]
 
 ### References
 
