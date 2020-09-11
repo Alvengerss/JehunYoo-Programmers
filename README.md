@@ -11,6 +11,7 @@
 
 - 튜플 : [[Python](tuple.py)]
 - 카카오 프렌즈 컬러링북 : [[C++ (DFS)](kakao_friends_coloring_book_dfs.cpp)] [[C++ (BFS)](kakao_friends_coloring_book_bfs.cpp)]
+- 소수 찾기 : [[Python](find_prime_number.py)]
 
 ### Level 3
 
